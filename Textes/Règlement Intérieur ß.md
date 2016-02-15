@@ -32,7 +32,7 @@ La cotisation peut se faire en ligne sur le site de l’association.
 
 **Article 2 - Condition d’adhésion et d’exclusion**
 
-L’association est libre par essence, vu qu’elle est communautaire, même si toute candidature est examinée. Il n’y a donc pas de conditions strictes pour en faire partie, cependant il y a des conditions négatives :
+[L’association est libre par essence, vu qu’elle est communautaire, même si toute candidature est examinée.] Il n’y a donc pas de conditions strictes pour en faire partie, cependant il y a des conditions négatives :
 
 Dans le cadre des personnes physique, celles-ci ne doivent pas être associées à des entreprises dont l’exercice est frauduleux ou se réclamer d’idéologies contraires aux lois.
 
